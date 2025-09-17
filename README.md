@@ -1,5 +1,4 @@
 # parcial-1
-Este es un borrador para el archivo README basado en el código Python que proporcionaste. Puedes copiarlo y pegarlo directamente, o modificarlo según tus necesidades.
 
 -----
 
